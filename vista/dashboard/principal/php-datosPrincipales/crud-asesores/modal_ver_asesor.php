@@ -2,11 +2,11 @@
     <div class="modal-dialog">
         <div class="modal-content ">
             <div class="modal-header d-flex justify-content-center">
-                <h5 class="modal-title fs-5" id="ver_info_asesor">Informacion de la asesor</h5>
+                <h5 class="modal-title fs-5" id="ver_info_asesor">Informacion de asesor</h5>
                 <button type="button" class="btn-close position-absolute end-0 me-3" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <input type="hidden" id="user_id" name="id_sede">
+                <input type="hidden" id="user_id" name="user_id">
                 <div class="ver_info_asesor">
 
                 </div>

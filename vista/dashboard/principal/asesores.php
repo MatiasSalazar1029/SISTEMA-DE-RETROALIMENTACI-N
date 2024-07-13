@@ -78,7 +78,7 @@ $nombre_sesion = $_SESSION['general_name'];
 
 
         <!-- MODAL PARA VER LA INFORMACION COMPLETA DE LA EMPRESA SELECCIONADO -->
-        <?php @include '../php-datosPrincipales/crud-asesores/modal_ver_asesor.php' ?>
+        <?php @include './php-datosPrincipales/crud-asesores/modal_ver_asesor.php' ?>
 
         <!--  MODAL PARA EDITAR LA INFORMACION COMPLETA DE LA EMPRESA SELECCIONADO  -->
         <?php @include './php-principal/modal_editar_empresa_seleccionado.php' ?>
